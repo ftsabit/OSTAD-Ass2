@@ -1,6 +1,6 @@
 <?php
 // Define the array of strings
-$strings = ["Hello", "Sabit", "World", "PHP", "Programming"];
+$strings = ["Hello", "World", "PHP", "Programming"];
 
 // Function to count vowels in a string
 function countVowels($str) {
